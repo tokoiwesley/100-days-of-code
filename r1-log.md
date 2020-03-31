@@ -23,4 +23,10 @@ Completed __Basic CSS__ coding challenges. I learnt about ID and class selectors
 
 **Today's Progress**: Worked on the __Applied Visual Design__ coding challenges and Completed all of them.
 
-**Thoughts**: The lessons were interesting especially the ones to do with CSS animations. I feel the need to try out my own exercises on CodePen to so that I may be able to recall what I learnt.
+**Thoughts**: The lessons were interesting especially the ones to do with CSS animations. I feel the need to try out my own exercises on CodePen so that I may be able to recall what I learnt.
+
+### R1D9
+
+**Today's Progress**: Started working on Applied Accessibility coding challenges.
+
+**Thoughts**: I felt very lazy to code and had to push myself to do it.
