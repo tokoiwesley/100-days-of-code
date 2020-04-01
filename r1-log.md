@@ -27,6 +27,12 @@ Completed __Basic CSS__ coding challenges. I learnt about ID and class selectors
 
 ### R1D9
 
-**Today's Progress**: Started working on Applied Accessibility coding challenges.
+**Today's Progress**: Started working on __Applied Accessibility__ coding challenges.
 
 **Thoughts**: I felt very lazy to code and had to push myself to do it.
+
+### R1D10
+
+**Today's Progress**: Completed the __Applied Accessibility__ coding challenges.
+
+**Thoughts**: I am looking forward to responsive web design pricniples next.
