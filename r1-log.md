@@ -36,3 +36,9 @@ Completed __Basic CSS__ coding challenges. I learnt about ID and class selectors
 **Today's Progress**: Completed the __Applied Accessibility__ coding challenges.
 
 **Thoughts**: I am looking forward to responsive web design pricniples next.
+
+### R1D11
+
+**Today's Progress**: Completed the __Responsive Web Design Principles__ coding challenges.
+
+**Thoughts**: I am looking forward to CSS flexbox coding challenges next.
