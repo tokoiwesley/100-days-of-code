@@ -13,10 +13,10 @@ Completed __Basic HTML and HTML5__ coding challenges.
 ### R1D3
 Started working on __Basic CSS__ coding challenges.
 
-### R1D4-D5
+### R1D4-5
 Worked on various __Basic CSS__ coding challenges. I still have a number of challenges ramaining.
 
-### R1D6-D7
+### R1D6-7
 Completed __Basic CSS__ coding challenges. I learnt about ID and class selectors, fonts, styling images, the CSS box model, clockwise notation as a shorthand, specifying colors as HEX codes and as RGB values, overriding styles and CSS variables.
 
 ### R1D8
@@ -42,3 +42,9 @@ Completed __Basic CSS__ coding challenges. I learnt about ID and class selectors
 **Today's Progress**: Completed the __Responsive Web Design Principles__ coding challenges.
 
 **Thoughts**: I am looking forward to CSS flexbox coding challenges next.
+
+### R1D12-13
+
+**Today's Progress**: I worked on various __CSS Flexbox__ coding challenges.
+
+**Thoughts**: I am still trying to wrap my mind around around CSS Flexbox.
