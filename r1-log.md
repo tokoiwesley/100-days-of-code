@@ -47,4 +47,10 @@ Completed __Basic CSS__ coding challenges. I learnt about ID and class selectors
 
 **Today's Progress**: I worked on various __CSS Flexbox__ coding challenges.
 
-**Thoughts**: I am still trying to wrap my mind around around CSS Flexbox.
+**Thoughts**: I am still trying to wrap my mind around CSS Flexbox.
+
+### R1D14
+
+**Today's Progress**: I completed the __CSS Flexbox__ coding challneges.
+
+**Thoughts**: I now get the point of CSS Flexbox. The idea by @AndreJaenisch to take a break and play the Flexbox Froggy helped!
