@@ -67,18 +67,18 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 
 ### R1D12-13: April 4-5, 2020
 
-**Today's Progress**: I worked on various __CSS Flexbox__ coding challenges.
+**Today's Progress**: Worked on various __CSS Flexbox__ coding challenges.
 
 **Thoughts**: I am still trying to wrap my mind around CSS Flexbox.
 
 ### R1D14: April 6, 2020
 
-**Today's Progress**: I completed the __CSS Flexbox__ coding challenges.
+**Today's Progress**: Completed the __CSS Flexbox__ coding challenges.
 
 **Thoughts**: I now get the point of CSS Flexbox. The idea by @AndreJaenisch to take a break and play the Flexbox Froggy helped!
 
 ### R1D15: April 7, 2020
 
-**Today's Progress**: I did the __CSS Grid__ coding challenges today.
+**Today's Progress**: Worked on and completed the __CSS Grid__ coding challenges today.
 
-**Thoughts**: I am happy to be finally ready for the __Responsive Web Design Projects__. That means practicing all I've learnt so far on Codepen.io.
+**Thoughts**: I am happy to be finally ready for the __Responsive Web Design Projects__. That means practicing all I've learnt so far on [Codepen](https://codepen.io/).
