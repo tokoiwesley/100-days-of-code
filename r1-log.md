@@ -8,29 +8,31 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 
 **Today's Progress**: Started working on __Free Code Camp's Responsive Web Design Certification__ beginning with __Basic HTML and HTML5__ coding challenges.
 
-**Thoughts**:
+**Thoughts**: Here I go! I am already tackling the first challenges.
 
 ### R1D2
 
 **Today's Progress**: Completed __Basic HTML and HTML5__ coding challenges.
 
+**Thoughts**: I am looking forward to basic css challenges next.
+
 ### R1D3
 
 **Today's Progress**: Started working on __Basic CSS__ coding challenges.
 
-**Thoughts**:
+**Thoughts**: I still have more challenges to tackle.
 
 ### R1D4-5
 
-**Today's Progress**: Worked on various __Basic CSS__ coding challenges. I still have a number of challenges ramaining.
+**Today's Progress**: Worked on various __Basic CSS__ coding challenges.
 
-**Thoughts**:
+**Thoughts**: I still have a number of challenges ramaining.
 
 ### R1D6-7
 
 **Today's Progress**: Completed __Basic CSS__ coding challenges. I learnt about ID and class selectors, fonts, styling images, the CSS box model, clockwise notation as a shorthand, specifying colors as HEX codes and as RGB values, overriding styles and CSS variables.
 
-**Thoughts**:
+**Thoughts**: Phew! Finally done with the basic css challenges.
 
 ### R1D8
 
