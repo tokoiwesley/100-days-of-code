@@ -51,6 +51,12 @@ Completed __Basic CSS__ coding challenges. I learnt about ID and class selectors
 
 ### R1D14
 
-**Today's Progress**: I completed the __CSS Flexbox__ coding challneges.
+**Today's Progress**: I completed the __CSS Flexbox__ coding challenges.
 
 **Thoughts**: I now get the point of CSS Flexbox. The idea by @AndreJaenisch to take a break and play the Flexbox Froggy helped!
+
+### R1D15
+
+**Today's Progress**: I did the __CSS Grid__ coding challenges today.
+
+**Thoughts**: I am happy to be finally ready for the __Responsive Web Design Projects__. That means practicing all I've learnt so far on Codepen.io.
