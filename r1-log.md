@@ -4,6 +4,13 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 
 ## Log
 
+### R1D0: March 23, 2020
+
+**Today's Progress**: Publicly recommitted to the #100DaysOfCode Challenge.
+
+**Thoughts**: I am excited about this @freeCodeCamp
+ journey and #100DaysOfCode challenge.
+
 ### R1D1
 
 **Today's Progress**: Started working on __Free Code Camp's Responsive Web Design Certification__ beginning with __Basic HTML and HTML5__ coding challenges.
