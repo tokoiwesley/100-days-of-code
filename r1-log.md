@@ -82,3 +82,9 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Worked on and completed the __CSS Grid__ coding challenges today.
 
 **Thoughts**: I am happy to be finally ready for the __Responsive Web Design Projects__. That means practicing all I've learnt so far on [Codepen](https://codepen.io/).
+
+### R1D16: April 8, 2020
+
+**Today's Progress**: Started working on __Build a Tribute Page__ responsive web design project.
+
+**Thoughts**: It feels cool starting to practice what I've been learning for the past two weeks.
