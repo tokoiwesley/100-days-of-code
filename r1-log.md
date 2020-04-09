@@ -91,6 +91,6 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 
 ### R1D17: April 9, 2020
 
-**Today's Progress**: Took a break from coding ans started reading Eloquent JavaScript by Marijn Haverbeke. I read the Introduction and chapter 1 (Values, Types, and Operators) today.
+**Today's Progress**: Started reading Eloquent JavaScript by Marijn Haverbeke. I read the Introduction and Chapter 1 (Values, Types, and Operators) today.
 
-**Thoughts**: I feel this will be a good read to supplement my learning as I cove the Free Code Camp curriculum.
+**Thoughts**: I feel this will be a good read to supplement my learning as I cover the Free Code Camp curriculum.
