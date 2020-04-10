@@ -94,3 +94,9 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Started reading Eloquent JavaScript by Marijn Haverbeke. I read the Introduction and Chapter 1 (Values, Types, and Operators) today.
 
 **Thoughts**: I feel this will be a good read to supplement my learning as I cover the Free Code Camp curriculum.
+
+### R1D18: April 10, 2020
+
+**Today's Progress**: Worked on __Build a Tribute Page__ responsive web design project.
+
+**Thoughts**: I hope to have a complete project tomorrow.
