@@ -100,3 +100,9 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Worked on __Build a Tribute Page__ responsive web design project.
 
 **Thoughts**: I hope to have a complete project tomorrow.
+
+### R1D19: April 11, 2020
+
+**Today's Progress**: I covered Chapter 2 (Program Structure) of Eloquent JavaScript today.
+
+**Thoughts**: Unfortunately I was not able to make time for completion of my __Build a Tribute Page__ responsive web design project.
