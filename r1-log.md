@@ -106,3 +106,9 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: I covered Chapter 2 (Program Structure) of Eloquent JavaScript today.
 
 **Thoughts**: Unfortunately I was not able to make time for completion of my __Build a Tribute Page__ responsive web design project.
+
+### R1D20: April 12, 2020
+
+**Today's Progress**: Continued work on the __Build a Tribute Page__ responsive web design project.
+
+**Thoughts**: Writing code today was boring!
