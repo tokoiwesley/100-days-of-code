@@ -112,3 +112,9 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Continued work on the __Build a Tribute Page__ responsive web design project.
 
 **Thoughts**: Writing code today was boring!
+
+### R1D21: April 13, 2020
+
+**Today's Progress**: Almost done with __Build a Tribute Page__ responsive web design project.
+
+**Thoughts**: 7/10 tests are passing and 3 tests failing.
