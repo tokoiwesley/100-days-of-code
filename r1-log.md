@@ -118,3 +118,11 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Almost done with __Build a Tribute Page__ responsive web design project.
 
 **Thoughts**: 7/10 tests are passing and 3 tests failing.
+
+### R1D22: April 14, 2020
+
+**Today's Progress**: Completed the __Build a Tribute Page__ responsive web design project.
+
+**Thoughts**: I ensured that all tests passed.
+
+**Link to work**: [FCC - Tribute Page](https://codepen.io/Tokoi/details/LGaBGL)
