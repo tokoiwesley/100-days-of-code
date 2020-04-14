@@ -125,4 +125,4 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 
 **Thoughts**: I ensured that all tests passed.
 
-**Link to work**: [FCC - Tribute Page](https://codepen.io/Tokoi/details/LGaBGL)
+**Link to work**: [FCC - Tribute Page](https://codepen.io/Tokoi/full/LGaBGL)
