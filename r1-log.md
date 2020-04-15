@@ -126,3 +126,9 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Thoughts**: I ensured that all tests passed.
 
 **Link to work**: [FCC - Tribute Page](https://codepen.io/Tokoi/full/LGaBGL)
+
+### R1D23: April 15, 2020
+
+**Today's Progress**: Started working on the __Build a Survey Form__ responsive web design project.
+
+**Thoughts**: I need to fulfill 16 user stories with this project.
