@@ -138,3 +138,9 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Worked on the __Build a Survey Form__ responsive web design project.
 
 **Thoughts**: I now have 6 user stories pending.
+
+### R1D25: April 17, 2020
+
+**Today's Progress**: Worked some more on the __Build a Survey Form__ responsive web design project.
+
+**Thoughts**: I guess I will be done with the project tomorrow.
