@@ -144,3 +144,9 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Worked some more on the __Build a Survey Form__ responsive web design project.
 
 **Thoughts**: I guess I will be done with the project tomorrow. I feel like days have been elapsing a little-bit fast!
+
+### R1D26: April 18, 2020
+
+**Today's Progress**: Started working on the __Build a Product Landing Page__ responsive web design project.
+
+**Thoughts**: I felt I needed to work on something different today.
