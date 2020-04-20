@@ -156,3 +156,9 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Continued to work on my solution for the __Build a Survey Form__ responsive web design project.
 
 **Thoughts**: I learnt a number of CSS techniques that will not give me the expected results.
+
+### R1D28: April 20, 2020
+
+**Today's Progress**: Completed my solution for the __Build a Survey Form__ responsive web design project.
+
+**Thoughts**: I feel great after learning the correct order of setting a fallback background colour, a background gradient and image. I found help from a tutorial on CSS-Tricks.
