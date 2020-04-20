@@ -162,3 +162,5 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Completed my solution for the __Build a Survey Form__ responsive web design project.
 
 **Thoughts**: I feel great after learning the correct order of setting a fallback background colour, a background gradient and image. I found help from a tutorial on CSS-Tricks.
+
+**Link to work**: [FCC - Survey Form](https://codepen.io/Tokoi/full/qBObxRV)
