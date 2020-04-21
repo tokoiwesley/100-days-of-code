@@ -164,3 +164,9 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Thoughts**: I feel great after learning the correct order of setting a fallback background colour, a background gradient and image. I found help from a tutorial on CSS-Tricks.
 
 **Link to work**: [FCC - Survey Form](https://codepen.io/Tokoi/full/qBObxRV)
+
+### R1D29: April 21, 2020
+
+**Today's Progress**: I worked on my solution for the __Build a Product Landing Page__ responsive web design project.
+
+**Thoughts**: I have 10 user stories pending to complete the project.
