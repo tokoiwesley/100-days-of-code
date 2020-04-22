@@ -170,3 +170,9 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: I worked on my solution for the __Build a Product Landing Page__ responsive web design project.
 
 **Thoughts**: I have 10 user stories pending to complete the project.
+
+### R1D30: April 22, 2020
+
+**Today's Progress**: Continued to work on my solution for the __Build a Product Landing Page__ responsive web design project.
+
+**Thoughts**: I am moving closer to the goal!
