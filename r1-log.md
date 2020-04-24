@@ -182,3 +182,9 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Started the JavaScript Algorithms and Data Structures certification beginning with the Basic JavaScript coding challenges first.
 
 **Thoughts**: I'll resume working on the Product Landing Page project solution tomorrow.
+
+### R1D32: April 24, 2020
+
+**Today's Progress**: Continued to work on the Basic JavaScript coding challenges.
+
+**Thoughts**: It's been quite a break staying away from CSS!
