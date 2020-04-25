@@ -188,3 +188,9 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Continued to work on the Basic JavaScript coding challenges.
 
 **Thoughts**: It's been quite a break staying away from CSS!
+
+### R1D33: April 25, 2020
+
+**Today's Progress**: Resumed working on the Product Landing Page project solution.
+
+**Thoughts**: I now have four user stories pending.
