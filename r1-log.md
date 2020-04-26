@@ -194,3 +194,8 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Resumed working on my solution for the Product Landing Page responsive web design project.
 
 **Thoughts**: I now have four user stories pending.
+
+### R1D34: April 26, 2020
+**Today's Progress**: Covered Chapter 3 (Functions) of Eloquent JavaScript today.
+
+**Thoughts**:
