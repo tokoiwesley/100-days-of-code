@@ -199,3 +199,8 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Covered Chapter 3 (Functions) of Eloquent JavaScript today.
 
 **Thoughts**: I am looking forward to cover Chapter 4 (Data Structures: Objects and Arrays).
+
+### R1D35: April 27, 2020
+**Today's Progress**: Covered part of Chapter 4 (Data Structures: Objects and Arrays) of Eloquent JavaScript.
+
+**Thoughts**: I'll cover the remaining part tomorrow.
