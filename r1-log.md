@@ -204,3 +204,8 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Covered part of Chapter 4 (Data Structures: Objects and Arrays) of Eloquent JavaScript.
 
 **Thoughts**: I'll cover the remaining part tomorrow.
+
+### R1D36: April 28, 2020
+**Today's Progress**: Covered the remaining part of Chapter 4 (Data Structures: Objects and Arrays) of Eloquent JavaScript.
+
+**Thoughts**: I will now resume the freeCodeCamp coding challenges tomorrow.
