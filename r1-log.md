@@ -91,7 +91,7 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 
 ### R1D17: April 9, 2020
 
-**Today's Progress**: Started reading Eloquent JavaScript by Marijn Haverbeke. I read the Introduction and Chapter 1 (Values, Types, and Operators) today.
+**Today's Progress**: Started reading __Eloquent JavaScript by Marijn Haverbeke__. I read the Introduction and Chapter 1 (_Values, Types, and Operators_) today.
 
 **Thoughts**: I feel this will be a good read to supplement my learning as I cover the Free Code Camp curriculum.
 
@@ -103,7 +103,7 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 
 ### R1D19: April 11, 2020
 
-**Today's Progress**: I covered Chapter 2 (Program Structure) of Eloquent JavaScript today.
+**Today's Progress**: Covered Chapter 2 (_Program Structure_) of Eloquent JavaScript today.
 
 **Thoughts**: Unfortunately I was not able to make time for completion of my __Build a Tribute Page__ responsive web design project.
 
@@ -167,7 +167,7 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 
 ### R1D29: April 21, 2020
 
-**Today's Progress**: I worked on my solution for the __Build a Product Landing Page__ responsive web design project.
+**Today's Progress**: Worked on my solution for the __Build a Product Landing Page__ responsive web design project.
 
 **Thoughts**: I have 10 user stories pending to complete the project.
 
@@ -179,7 +179,7 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 
 ### R1D31: April 23, 2020
 
-**Today's Progress**: Started the JavaScript Algorithms and Data Structures certification beginning with the Basic JavaScript coding challenges first.
+**Today's Progress**: Started working on the __JavaScript Algorithms and Data Structures Certification__ beginning with the __Basic JavaScript__ coding challenges first.
 
 **Thoughts**: I'll resume working on the Product Landing Page project solution tomorrow.
 
@@ -196,12 +196,12 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Thoughts**: I now have four user stories pending.
 
 ### R1D34: April 26, 2020
-**Today's Progress**: Covered Chapter 3 (Functions) of Eloquent JavaScript today.
+**Today's Progress**: Covered Chapter 3 (_Functions_) of Eloquent JavaScript today.
 
 **Thoughts**: I am looking forward to cover Chapter 4 (Data Structures: Objects and Arrays).
 
 ### R1D35: April 27, 2020
-**Today's Progress**: Covered part of Chapter 4 (Data Structures: Objects and Arrays) of Eloquent JavaScript.
+**Today's Progress**: Covered part of Chapter 4 (_Data Structures: Objects and Arrays_) of Eloquent JavaScript.
 
 **Thoughts**: I'll cover the remaining part tomorrow.
 
@@ -209,3 +209,8 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Covered the remaining part of Chapter 4 (Data Structures: Objects and Arrays) of Eloquent JavaScript.
 
 **Thoughts**: I will now resume the freeCodeCamp coding challenges tomorrow.
+
+### R1D37: April 29, 2020
+**Today's Progress**: Resumed the freeCodeCamp coding challenges today and completed the __Basic JavaScript__ coding challenges.
+
+**Thoughts**: I feel I should now tackle the pending responsive web design projects before proceeding with the ES6 coding challenges.
