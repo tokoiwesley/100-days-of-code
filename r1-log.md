@@ -214,3 +214,8 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 **Today's Progress**: Resumed the freeCodeCamp coding challenges today and completed the __Basic JavaScript__ coding challenges.
 
 **Thoughts**: I feel I should now tackle the pending responsive web design projects before proceeding with the ES6 coding challenges.
+
+### R1D38: April 30, 2020
+**Today's Progress**: Resumed working on the responsive web design projects.
+
+**Thoughts**: I have started feeling I am relying too much on Bootstrap at this stage and maybe that's why CSS is giving me problems.
