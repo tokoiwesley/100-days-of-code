@@ -223,4 +223,4 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2020].
 ### R1D39-42: May 1-4, 2020
 **Today's Progress**: Removed bootstrap dependency from my solution for the __Build a Product Landing Page__ responsive web design project and started writing my own raw CSS.
 
-**Thoughts**: As a CSS3 newbie I think I want to get comfortable in it first - this time around - before I start using frameworks.
+**Thoughts**: I want to get some practice first before I pick a framework this time around.
